@@ -12,14 +12,14 @@ if (a == 0) {
 }
 
 #mencari akar-akar persamaan
-if (Diskriminan >= 0) {
+if (Diskriminan > 0) {
   x1 <- (-b + sqrt(Diskriminan)) / (2*a)
   x2 <- (-b - sqrt(Diskriminan)) / (2*a)
   cat(sprintf("akar-akar real adalah: x1 = %.3f dan x2 = %.3f\n", x1, x2))
-} else {
-  cat("persamaan hanya mempunyai akar-akar imajiner\n")
-}
- = %.3f dan x2 = %.3f\n", x1, x2))
+} else if (Diskriminan == 0) {
+  x1 <- -b / (2*a)
+  x2 <- -b / (2*a)
+  cat(sprintf("persamaan memiliki akar kembar : x1 = %.3f dan x2 = %.3f\n", x1, x2))
 } else {
   cat("persamaan hanya mempunyai akar-akar imajiner\n")
 }
