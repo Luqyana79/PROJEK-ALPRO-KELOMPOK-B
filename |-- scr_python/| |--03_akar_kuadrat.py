@@ -13,7 +13,7 @@ else:
     Diskriminan = b**2 - 4*a*c
 
     # Pengecekan kondisi akar
-    if Diskriminan >= 0:
+    if Diskriminan > 0:
         x1 = (-b + math.sqrt(Diskriminan)) / (2*a)
         x2 = (-b - math.sqrt(Diskriminan)) / (2*a)
 
@@ -24,6 +24,6 @@ else:
     elif Diskriminan == 0:
         x = -b / (2*a)
         print(f"\nPersamaan memiliki akar tunggal:")
-        print(f"x1 = x2 = {x:.3f}")
+        print(f"x = {x:.3f}")
     else:
         print("\nPersamaan hanya memiliki akar-akar imajiner")
