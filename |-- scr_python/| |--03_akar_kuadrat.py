@@ -22,8 +22,10 @@ else:
         print(f"x1 = {x1:.3f}")
         print(f"x2 = {x2:.3f}")
     elif Diskriminan == 0:
-        x = -b / (2*a)
-        print(f"\nPersamaan memiliki akar tunggal:")
-        print(f"x = {x:.3f}")
+        x1 = -b / (2*a)
+        x2 = -b / (2*a)
+        print(f"\nPersamaan memiliki akar kembar:")
+        print(f"x1 = {x1:.3f}")
+        print(f"x2 = {x2:.3f}")
     else:
         print("\nPersamaan hanya memiliki akar-akar imajiner")
