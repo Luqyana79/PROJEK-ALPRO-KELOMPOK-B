@@ -1,11 +1,13 @@
 #skenario 1
-<img width="1366" height="768" alt="Screenshot 2026-06-12 165925" src="https://github.com/user-attachments/assets/7912b1fa-0877-41b7-b6ae-95aac3ad8caf" />
+<img width="1366" height="768" alt="Screenshot 2026-06-12 191500" src="https://github.com/user-attachments/assets/59578792-b25f-4b39-8f2a-9fdad9e2547d" />
 
 #skenario 2
-<img width="1366" height="768" alt="Screenshot 2026-06-12 172154" src="https://github.com/user-attachments/assets/a095d7c6-1128-439d-aedb-bcb7f5883b65" />
+<img width="1366" height="768" alt="Screenshot 2026-06-12 191521" src="https://github.com/user-attachments/assets/09398f45-c75a-4e27-b77f-1666c9132761" />
+
 
 #skenario 3
-<img width="1366" height="768" alt="Screenshot 2026-06-12 172508" src="https://github.com/user-attachments/assets/883789b4-5eda-4f85-8ffd-5a49c7143bc0" />
+<img width="1366" height="768" alt="Screenshot 2026-06-12 191542" src="https://github.com/user-attachments/assets/e377519b-b618-4795-bb2e-d7c9f8568a59" />
+
 
 #skenario 4
-<img width="1366" height="768" alt="Screenshot 2026-06-12 172642" src="https://github.com/user-attachments/assets/c529d879-dd8a-4264-86f0-5449122d1e9c" />
+<img width="1366" height="768" alt="Screenshot 2026-06-12 191608" src="https://github.com/user-attachments/assets/057214b2-69dc-4fbd-b94f-c43f40031cf1" />
