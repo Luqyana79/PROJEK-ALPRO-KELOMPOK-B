@@ -1,5 +1,5 @@
 #skenario 1
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/35f65805-ed21-4f1e-92c6-ca7e753be67d" />
+<img width="1366" height="768" alt="Screenshot 2026-06-12 165925" src="https://github.com/user-attachments/assets/7912b1fa-0877-41b7-b6ae-95aac3ad8caf" />
 
 #skenario 2
 <img width="1366" height="768" alt="Screenshot 2026-06-12 172154" src="https://github.com/user-attachments/assets/a095d7c6-1128-439d-aedb-bcb7f5883b65" />
