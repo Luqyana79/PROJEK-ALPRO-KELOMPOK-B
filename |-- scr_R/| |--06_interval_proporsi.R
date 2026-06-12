@@ -20,9 +20,9 @@ hitung_interval <- function(p_hat, n, alpha) {
 }
 
 # Input
-p_hat <- 0.567
-n <- 10
-alpha <- 0.05
+p_hat <- ("Input nilai p_hat")
+n <- ("Input nilai n)
+alpha <- ("Input nilai alpha")
 
 # Validasi
 if (p_hat < 0 || p_hat > 1) {
