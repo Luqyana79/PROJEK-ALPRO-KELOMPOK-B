@@ -21,7 +21,7 @@ hitung_interval <- function(p_hat, n, alpha) {
 
 # Input
 p_hat <- ("Input nilai p_hat")
-n <- ("Input nilai n)
+n <- ("Input nilai n")
 alpha <- ("Input nilai alpha")
 
 # Validasi
