@@ -1,4 +1,4 @@
-#mencari aka-akar real persamaan kuadrat
+#mencari akar-akar real persamaan kuadrat
 #mendefinisikan variabel
 a <- as.numeric(readline(prompt = "masukkan nilai a: "))
 b <- as.numeric(readline(prompt = "masukkan nilai b: "))
